@@ -29,7 +29,7 @@ MS in Computer Science
 University of Central Missouri
 
 ## Connect With Me
-- LinkedIn: https://www.linkedin.com/in/allagadda-dileep/
+- LinkedIn: [Allagadda Dileep](https://www.linkedin.com/in/allagadda-dileep/)
 - Email: dileepada172@gmail.com
 
 ## GitHub Stats
