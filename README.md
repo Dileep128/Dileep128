@@ -2,13 +2,9 @@
 
 Data Analyst with 3+ years of experience in Healthcare and Business Analytics.
 
-## Skills
-- SQL
-- Python
-- Power BI
-- Tableau
-- Snowflake
-- AWS
+## Tech Stack
+
+SQL • Python • Power BI • Tableau • Snowflake • AWS • PostgreSQL • BigQuery
 
 ## Areas of Expertise
 - Healthcare Analytics
